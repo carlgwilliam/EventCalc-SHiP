@@ -21,12 +21,14 @@ source setup.sh
 
 ## 2. Run full mass-coupling scan for that model
 
-### Edit examples/coupling_scan.py to update events to 100000 then run
+Edit examples/coupling_scan.py to update events to 100000 then run
+
 `python examples/coupling_scan.py > ALPPhoton.json`
 
 Look at scan card and try to understand
 
-### Run Simulation
+Run Simulation
+
 `python simulate.py --card ALPPhoton.json`
 
 Look at total outputs in outputs/<model>/total/
