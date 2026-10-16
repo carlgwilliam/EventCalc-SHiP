@@ -1,0 +1,592 @@
+{
+  "fragmentation_0.03_4900113_primary": {
+    "absolute_yield": 0.5068349244152988,
+    "signed_yield": 0.5068349244152988,
+    "samples": 131072
+  },
+  "fragmentation_0.03_4900223_primary": {
+    "absolute_yield": 0.51197432759633,
+    "signed_yield": 0.51197432759633,
+    "samples": 131072
+  },
+  "fragmentation_0.03_4900333_primary": {
+    "absolute_yield": 0.026984981052605425,
+    "signed_yield": 0.026984981052605425,
+    "samples": 131072
+  },
+  "fragmentation_0.03_4900113_cascade": {
+    "absolute_yield": 5.416474891982115,
+    "signed_yield": 5.416474891982115,
+    "samples": 131072
+  },
+  "fragmentation_0.03_4900223_cascade": {
+    "absolute_yield": 5.4722980058083985,
+    "signed_yield": 5.4722980058083985,
+    "samples": 131072
+  },
+  "fragmentation_0.03_4900333_cascade": {
+    "absolute_yield": 0.20658712759174336,
+    "signed_yield": 0.20658712759174336,
+    "samples": 131072
+  },
+  "fragmentation_0.1_4900113_primary": {
+    "absolute_yield": 0.5079262127880059,
+    "signed_yield": 0.5079262127880059,
+    "samples": 131072
+  },
+  "fragmentation_0.1_4900223_primary": {
+    "absolute_yield": 0.49739916552798313,
+    "signed_yield": 0.49739916552798313,
+    "samples": 131072
+  },
+  "fragmentation_0.1_4900333_primary": {
+    "absolute_yield": 0.026006091523991665,
+    "signed_yield": 0.026006091523991665,
+    "samples": 131072
+  },
+  "fragmentation_0.1_4900113_cascade": {
+    "absolute_yield": 5.377204914810629,
+    "signed_yield": 5.377204914810629,
+    "samples": 131072
+  },
+  "fragmentation_0.1_4900223_cascade": {
+    "absolute_yield": 5.225480521410798,
+    "signed_yield": 5.225480521410798,
+    "samples": 131072
+  },
+  "fragmentation_0.1_4900333_cascade": {
+    "absolute_yield": 0.20058256949669612,
+    "signed_yield": 0.20058256949669612,
+    "samples": 131072
+  },
+  "fragmentation_0.3_4900113_primary": {
+    "absolute_yield": 0.49388689680318487,
+    "signed_yield": 0.49388689680318487,
+    "samples": 131072
+  },
+  "fragmentation_0.3_4900223_primary": {
+    "absolute_yield": 0.46658024455110403,
+    "signed_yield": 0.46658024455110403,
+    "samples": 131072
+  },
+  "fragmentation_0.3_4900333_primary": {
+    "absolute_yield": 0.021882765613310463,
+    "signed_yield": 0.021882765613310463,
+    "samples": 131072
+  },
+  "fragmentation_0.3_4900113_cascade": {
+    "absolute_yield": 4.875491474849519,
+    "signed_yield": 4.875491474849519,
+    "samples": 131072
+  },
+  "fragmentation_0.3_4900223_cascade": {
+    "absolute_yield": 4.946062268541252,
+    "signed_yield": 4.946062268541252,
+    "samples": 131072
+  },
+  "fragmentation_0.3_4900333_cascade": {
+    "absolute_yield": 0.19241054977579278,
+    "signed_yield": 0.19241054977579278,
+    "samples": 131072
+  },
+  "fragmentation_0.6_4900113_primary": {
+    "absolute_yield": 0.42844267192315233,
+    "signed_yield": 0.42844267192315233,
+    "samples": 131072
+  },
+  "fragmentation_0.6_4900223_primary": {
+    "absolute_yield": 0.4124942960746232,
+    "signed_yield": 0.4124942960746232,
+    "samples": 131072
+  },
+  "fragmentation_0.6_4900333_primary": {
+    "absolute_yield": 0.02177129861268954,
+    "signed_yield": 0.02177129861268954,
+    "samples": 131072
+  },
+  "fragmentation_0.6_4900113_cascade": {
+    "absolute_yield": 4.104163984302221,
+    "signed_yield": 4.104163984302221,
+    "samples": 131072
+  },
+  "fragmentation_0.6_4900223_cascade": {
+    "absolute_yield": 4.044592951538179,
+    "signed_yield": 4.044592951538179,
+    "samples": 131072
+  },
+  "fragmentation_0.6_4900333_cascade": {
+    "absolute_yield": 0.15216056519600143,
+    "signed_yield": 0.15216056519600143,
+    "samples": 131072
+  },
+  "fragmentation_0.85_4900113_primary": {
+    "absolute_yield": 0.3780870838502952,
+    "signed_yield": 0.3780870838502952,
+    "samples": 131072
+  },
+  "fragmentation_0.85_4900223_primary": {
+    "absolute_yield": 0.38806904395871356,
+    "signed_yield": 0.38806904395871356,
+    "samples": 131072
+  },
+  "fragmentation_0.85_4900333_primary": {
+    "absolute_yield": 0.020085370447178785,
+    "signed_yield": 0.020085370447178785,
+    "samples": 131072
+  },
+  "fragmentation_0.85_4900113_cascade": {
+    "absolute_yield": 3.034635493288476,
+    "signed_yield": 3.034635493288476,
+    "samples": 131072
+  },
+  "fragmentation_0.85_4900223_cascade": {
+    "absolute_yield": 3.007433668589083,
+    "signed_yield": 3.007433668589083,
+    "samples": 131072
+  },
+  "fragmentation_0.85_4900333_cascade": {
+    "absolute_yield": 0.1181511888603074,
+    "signed_yield": 0.1181511888603074,
+    "samples": 131072
+  },
+  "fragmentation_1.1_4900113_primary": {
+    "absolute_yield": 0.33866460337092374,
+    "signed_yield": 0.33866460337092374,
+    "samples": 131072
+  },
+  "fragmentation_1.1_4900223_primary": {
+    "absolute_yield": 0.3221346398651339,
+    "signed_yield": 0.3221346398651339,
+    "samples": 131072
+  },
+  "fragmentation_1.1_4900333_primary": {
+    "absolute_yield": 0.014076075018851728,
+    "signed_yield": 0.014076075018851728,
+    "samples": 131072
+  },
+  "fragmentation_1.1_4900113_cascade": {
+    "absolute_yield": 2.134210684112096,
+    "signed_yield": 2.134210684112096,
+    "samples": 131072
+  },
+  "fragmentation_1.1_4900223_cascade": {
+    "absolute_yield": 2.182700053243334,
+    "signed_yield": 2.182700053243334,
+    "samples": 131072
+  },
+  "fragmentation_1.1_4900333_cascade": {
+    "absolute_yield": 0.09567584993185631,
+    "signed_yield": 0.09567584993185631,
+    "samples": 131072
+  },
+  "fragmentation_1.5_4900113_primary": {
+    "absolute_yield": 0.23966951885558557,
+    "signed_yield": 0.23966951885558557,
+    "samples": 131072
+  },
+  "fragmentation_1.5_4900223_primary": {
+    "absolute_yield": 0.2422792618351573,
+    "signed_yield": 0.2422792618351573,
+    "samples": 131072
+  },
+  "fragmentation_1.5_4900333_primary": {
+    "absolute_yield": 0.011295338529001133,
+    "signed_yield": 0.011295338529001133,
+    "samples": 131072
+  },
+  "fragmentation_1.5_4900113_cascade": {
+    "absolute_yield": 1.1096978967680167,
+    "signed_yield": 1.1096978967680167,
+    "samples": 131072
+  },
+  "fragmentation_1.5_4900223_cascade": {
+    "absolute_yield": 1.058063769529874,
+    "signed_yield": 1.058063769529874,
+    "samples": 131072
+  },
+  "fragmentation_1.5_4900333_cascade": {
+    "absolute_yield": 0.04151340595663932,
+    "signed_yield": 0.04151340595663932,
+    "samples": 131072
+  },
+  "fragmentation_2_4900113_primary": {
+    "absolute_yield": 0.1728960800247049,
+    "signed_yield": 0.1728960800247049,
+    "samples": 131072
+  },
+  "fragmentation_2_4900223_primary": {
+    "absolute_yield": 0.179215595677275,
+    "signed_yield": 0.179215595677275,
+    "samples": 131072
+  },
+  "fragmentation_2_4900333_primary": {
+    "absolute_yield": 0.006008071324461154,
+    "signed_yield": 0.006008071324461154,
+    "samples": 131072
+  },
+  "fragmentation_2_4900113_cascade": {
+    "absolute_yield": 0.4204101539270515,
+    "signed_yield": 0.4204101539270515,
+    "samples": 131072
+  },
+  "fragmentation_2_4900223_cascade": {
+    "absolute_yield": 0.446788076489847,
+    "signed_yield": 0.446788076489847,
+    "samples": 131072
+  },
+  "fragmentation_2_4900333_cascade": {
+    "absolute_yield": 0.012422681454758831,
+    "signed_yield": 0.012422681454758831,
+    "samples": 131072
+  },
+  "fragmentation_3_4900113_primary": {
+    "absolute_yield": 0.12039538874496811,
+    "signed_yield": 0.12039538874496811,
+    "samples": 131072
+  },
+  "fragmentation_3_4900223_primary": {
+    "absolute_yield": 0.12593031104910038,
+    "signed_yield": 0.12593031104910038,
+    "samples": 131072
+  },
+  "fragmentation_3_4900333_primary": {
+    "absolute_yield": 0.002729175187172364,
+    "signed_yield": 0.002729175187172364,
+    "samples": 131072
+  },
+  "fragmentation_3_4900113_cascade": {
+    "absolute_yield": 0.21036129380551835,
+    "signed_yield": 0.21036129380551835,
+    "samples": 131072
+  },
+  "fragmentation_3_4900223_cascade": {
+    "absolute_yield": 0.1988185801402273,
+    "signed_yield": 0.1988185801402273,
+    "samples": 131072
+  },
+  "fragmentation_3_4900333_cascade": {
+    "absolute_yield": 0.004294595941050803,
+    "signed_yield": 0.004294595941050803,
+    "samples": 131072
+  },
+  "fragmentation_5_4900113_primary": {
+    "absolute_yield": 0.06643060079274171,
+    "signed_yield": 0.06643060079274171,
+    "samples": 131072
+  },
+  "fragmentation_5_4900223_primary": {
+    "absolute_yield": 0.06728818009850657,
+    "signed_yield": 0.06728818009850657,
+    "samples": 131072
+  },
+  "fragmentation_5_4900333_primary": {
+    "absolute_yield": 0.0020290759961687794,
+    "signed_yield": 0.0020290759961687794,
+    "samples": 131072
+  },
+  "fragmentation_5_4900113_cascade": {
+    "absolute_yield": 0.057093216018718966,
+    "signed_yield": 0.057093216018718966,
+    "samples": 131072
+  },
+  "fragmentation_5_4900223_cascade": {
+    "absolute_yield": 0.05545971822439649,
+    "signed_yield": 0.05545971822439649,
+    "samples": 131072
+  },
+  "fragmentation_5_4900333_cascade": {
+    "absolute_yield": 0.0015491275780722773,
+    "signed_yield": 0.0015491275780722773,
+    "samples": 131072
+  },
+  "fragmentation_7_4900113_primary": {
+    "absolute_yield": 0.039204277620608345,
+    "signed_yield": 0.039204277620608345,
+    "samples": 131072
+  },
+  "fragmentation_7_4900223_primary": {
+    "absolute_yield": 0.036840562058187906,
+    "signed_yield": 0.036840562058187906,
+    "samples": 131072
+  },
+  "fragmentation_7_4900333_primary": {
+    "absolute_yield": 0.0006375982562521567,
+    "signed_yield": 0.0006375982562521567,
+    "samples": 131072
+  },
+  "fragmentation_7_4900113_cascade": {
+    "absolute_yield": 0.02112177600973264,
+    "signed_yield": 0.02112177600973264,
+    "samples": 131072
+  },
+  "fragmentation_7_4900223_cascade": {
+    "absolute_yield": 0.019830230654661676,
+    "signed_yield": 0.019830230654661676,
+    "samples": 131072
+  },
+  "fragmentation_7_4900333_cascade": {
+    "absolute_yield": 0.00012694235321351042,
+    "signed_yield": 0.00012694235321351042,
+    "samples": 131072
+  },
+  "fragmentation_10_4900113_primary": {
+    "absolute_yield": 0.012280825217018615,
+    "signed_yield": 0.012280825217018615,
+    "samples": 131072
+  },
+  "fragmentation_10_4900223_primary": {
+    "absolute_yield": 0.012189030928024095,
+    "signed_yield": 0.012189030928024095,
+    "samples": 131072
+  },
+  "fragmentation_10_4900333_primary": {
+    "absolute_yield": 0.0005146882813830016,
+    "signed_yield": 0.0005146882813830016,
+    "samples": 131072
+  },
+  "fragmentation_10_4900113_cascade": {
+    "absolute_yield": 0.003576115005683781,
+    "signed_yield": 0.003576115005683781,
+    "samples": 131072
+  },
+  "fragmentation_10_4900223_cascade": {
+    "absolute_yield": 0.004140787119315623,
+    "signed_yield": 0.004140787119315623,
+    "samples": 131072
+  },
+  "fragmentation_10_4900333_cascade": {
+    "absolute_yield": 0.00014033702034115734,
+    "signed_yield": 0.00014033702034115734,
+    "samples": 131072
+  },
+  "fragmentation_15_4900113_primary": {
+    "absolute_yield": 0.0015618338837720324,
+    "signed_yield": 0.0015618338837720324,
+    "samples": 131072
+  },
+  "fragmentation_15_4900223_primary": {
+    "absolute_yield": 0.0008482093080662363,
+    "signed_yield": 0.0008482093080662363,
+    "samples": 131072
+  },
+  "fragmentation_15_4900333_primary": {
+    "absolute_yield": 0.0,
+    "signed_yield": 0.0,
+    "samples": 0
+  },
+  "fragmentation_15_4900113_cascade": {
+    "absolute_yield": 0.00032807850542257373,
+    "signed_yield": 0.00032807850542257373,
+    "samples": 131072
+  },
+  "fragmentation_15_4900223_cascade": {
+    "absolute_yield": 0.00012993102613027992,
+    "signed_yield": 0.00012993102613027992,
+    "samples": 131072
+  },
+  "fragmentation_15_4900333_cascade": {
+    "absolute_yield": 0.0,
+    "signed_yield": 0.0,
+    "samples": 0
+  },
+  "fragmentation_20_4900113_primary": {
+    "absolute_yield": 2.5836750853802468e-05,
+    "signed_yield": 2.5836750853802468e-05,
+    "samples": 131072
+  },
+  "fragmentation_20_4900223_primary": {
+    "absolute_yield": 1.6573714549509347e-05,
+    "signed_yield": 1.6573714549509347e-05,
+    "samples": 131072
+  },
+  "fragmentation_20_4900333_primary": {
+    "absolute_yield": 0.0,
+    "signed_yield": 0.0,
+    "samples": 0
+  },
+  "fragmentation_20_4900113_cascade": {
+    "absolute_yield": 3.875048790788906e-06,
+    "signed_yield": 3.875048790788906e-06,
+    "samples": 131072
+  },
+  "fragmentation_20_4900223_cascade": {
+    "absolute_yield": 3.380371317436725e-06,
+    "signed_yield": 3.380371317436725e-06,
+    "samples": 131072
+  },
+  "fragmentation_20_4900333_cascade": {
+    "absolute_yield": 0.0,
+    "signed_yield": 0.0,
+    "samples": 0
+  },
+  "dy_1.5_0_primary": {
+    "absolute_yield": 0.0003211907672544187,
+    "signed_yield": 0.0003211907672544187,
+    "samples": 131072
+  },
+  "dy_1.5_0_cascade": {
+    "absolute_yield": 0.0010836526857233748,
+    "signed_yield": 0.0010836526857233748,
+    "samples": 131072
+  },
+  "dy_2_0_primary": {
+    "absolute_yield": 0.00014080649406983183,
+    "signed_yield": 0.00014080649406983183,
+    "samples": 131072
+  },
+  "dy_2_0_cascade": {
+    "absolute_yield": 0.0003652160352935874,
+    "signed_yield": 0.0003652160352935874,
+    "samples": 131072
+  },
+  "dy_3_0_primary": {
+    "absolute_yield": 3.670775799242668e-05,
+    "signed_yield": 3.670775799242668e-05,
+    "samples": 131072
+  },
+  "dy_3_0_cascade": {
+    "absolute_yield": 5.889219807031397e-05,
+    "signed_yield": 5.889219807031397e-05,
+    "samples": 131072
+  },
+  "dy_5_0_primary": {
+    "absolute_yield": 4.225588354841868e-06,
+    "signed_yield": 4.225588354841868e-06,
+    "samples": 131072
+  },
+  "dy_5_0_cascade": {
+    "absolute_yield": 3.5207739052451728e-06,
+    "signed_yield": 3.5207739052451728e-06,
+    "samples": 131072
+  },
+  "dy_7_0_primary": {
+    "absolute_yield": 6.353213447718318e-07,
+    "signed_yield": 6.353213447718318e-07,
+    "samples": 131072
+  },
+  "dy_7_0_cascade": {
+    "absolute_yield": 3.586026519869705e-07,
+    "signed_yield": 3.586026519869705e-07,
+    "samples": 131072
+  },
+  "dy_10_0_primary": {
+    "absolute_yield": 4.098414722270667e-08,
+    "signed_yield": 4.098414722270667e-08,
+    "samples": 131072
+  },
+  "dy_10_0_cascade": {
+    "absolute_yield": 1.7035568194202026e-08,
+    "signed_yield": 1.7035568194202026e-08,
+    "samples": 131072
+  },
+  "dy_12_0_primary": {
+    "absolute_yield": 6.250808571900034e-09,
+    "signed_yield": 6.250808571900034e-09,
+    "samples": 131072
+  },
+  "dy_12_0_cascade": {
+    "absolute_yield": 2.460902150831339e-09,
+    "signed_yield": 2.460902150831339e-09,
+    "samples": 131072
+  },
+  "dy_15_0_primary": {
+    "absolute_yield": 2.8779937620853237e-10,
+    "signed_yield": 2.8779937620853237e-10,
+    "samples": 131072
+  },
+  "dy_15_0_cascade": {
+    "absolute_yield": 1.3116905679375142e-10,
+    "signed_yield": 1.3116905679375142e-10,
+    "samples": 131072
+  },
+  "dy_17_0_primary": {
+    "absolute_yield": 2.7316971922494488e-11,
+    "signed_yield": 2.7316971922494488e-11,
+    "samples": 131072
+  },
+  "dy_17_0_cascade": {
+    "absolute_yield": 1.6592536676723446e-11,
+    "signed_yield": 1.6592536676723446e-11,
+    "samples": 131072
+  },
+  "dy_20_0_primary": {
+    "absolute_yield": 3.477101141405752e-13,
+    "signed_yield": 3.477101141405752e-13,
+    "samples": 131072
+  },
+  "dy_20_0_cascade": {
+    "absolute_yield": 6.33275962412879e-13,
+    "signed_yield": 6.33275962412879e-13,
+    "samples": 131072
+  },
+  "dy_22_0_primary": {
+    "absolute_yield": 6.742211752685831e-15,
+    "signed_yield": 6.741388728790239e-15,
+    "samples": 131072
+  },
+  "dy_22_0_cascade": {
+    "absolute_yield": 6.49519888070275e-14,
+    "signed_yield": 6.49509977183311e-14,
+    "samples": 131072
+  },
+  "dy_24_0_primary": {
+    "absolute_yield": 1.7022143185052615e-17,
+    "signed_yield": 1.7013571854408286e-17,
+    "samples": 131072
+  },
+  "dy_24_0_cascade": {
+    "absolute_yield": 2.9048499618481507e-15,
+    "signed_yield": 2.9048056373553244e-15,
+    "samples": 131072
+  },
+  "dy_25_0_primary": {
+    "absolute_yield": 7.361289246069924e-20,
+    "signed_yield": 7.156746586812518e-20,
+    "samples": 131072
+  },
+  "dy_25_0_cascade": {
+    "absolute_yield": 2.8604794381343286e-16,
+    "signed_yield": 2.8604357906819647e-16,
+    "samples": 131072
+  },
+  "parent_111_primary": {
+    "parent_yield": 3.8362593628525365,
+    "samples": 131072
+  },
+  "parent_111_cascade": {
+    "parent_yield": 37.873323978719554,
+    "samples": 131072
+  },
+  "parent_221_primary": {
+    "parent_yield": 0.29231772282663093,
+    "samples": 131072
+  },
+  "parent_221_cascade": {
+    "parent_yield": 2.7041959193939813,
+    "samples": 131072
+  },
+  "parent_331_primary": {
+    "parent_yield": 0.07270801974272016,
+    "samples": 131072
+  },
+  "parent_331_cascade": {
+    "parent_yield": 0.541009496193165,
+    "samples": 131072
+  },
+  "parent_223_primary": {
+    "parent_yield": 0.39527406304186413,
+    "samples": 131072
+  },
+  "parent_223_cascade": {
+    "parent_yield": 3.3099125797877673,
+    "samples": 131072
+  },
+  "brem_primary": {
+    "proton_collisions_per_PoT": 0.9998,
+    "samples": 131072
+  },
+  "brem_cascade": {
+    "proton_collisions_per_PoT": 2.71035,
+    "samples": 131072
+  }
+}

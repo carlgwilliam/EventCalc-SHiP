@@ -1,0 +1,191 @@
+{
+  "schema": 1,
+  "description": "Correlated PDF and scale ratios mapped exactly to the segmented-target ring-beam source pools.",
+  "weight_chunks": [
+    {
+      "file": "ratios_000.npy",
+      "start": 0,
+      "stop": 32768
+    },
+    {
+      "file": "ratios_001.npy",
+      "start": 32768,
+      "stop": 65536
+    },
+    {
+      "file": "ratios_002.npy",
+      "start": 65536,
+      "stop": 98304
+    },
+    {
+      "file": "ratios_003.npy",
+      "start": 98304,
+      "stop": 131072
+    },
+    {
+      "file": "ratios_004.npy",
+      "start": 131072,
+      "stop": 163840
+    },
+    {
+      "file": "ratios_005.npy",
+      "start": 163840,
+      "stop": 196608
+    },
+    {
+      "file": "ratios_006.npy",
+      "start": 196608,
+      "stop": 229376
+    },
+    {
+      "file": "ratios_007.npy",
+      "start": 229376,
+      "stop": 262144
+    },
+    {
+      "file": "ratios_008.npy",
+      "start": 262144,
+      "stop": 294912
+    },
+    {
+      "file": "ratios_009.npy",
+      "start": 294912,
+      "stop": 327680
+    },
+    {
+      "file": "ratios_010.npy",
+      "start": 327680,
+      "stop": 360448
+    },
+    {
+      "file": "ratios_011.npy",
+      "start": 360448,
+      "stop": 393216
+    },
+    {
+      "file": "ratios_012.npy",
+      "start": 393216,
+      "stop": 425984
+    },
+    {
+      "file": "ratios_013.npy",
+      "start": 425984,
+      "stop": 458752
+    },
+    {
+      "file": "ratios_014.npy",
+      "start": 458752,
+      "stop": 491520
+    },
+    {
+      "file": "ratios_015.npy",
+      "start": 491520,
+      "stop": 524288
+    },
+    {
+      "file": "ratios_016.npy",
+      "start": 524288,
+      "stop": 557056
+    },
+    {
+      "file": "ratios_017.npy",
+      "start": 557056,
+      "stop": 589824
+    },
+    {
+      "file": "ratios_018.npy",
+      "start": 589824,
+      "stop": 622592
+    },
+    {
+      "file": "ratios_019.npy",
+      "start": 622592,
+      "stop": 655360
+    },
+    {
+      "file": "ratios_020.npy",
+      "start": 655360,
+      "stop": 655535
+    }
+  ],
+  "sha256": {
+    "labels.json": "ef1c1599456db521de1b9065754cd65e30889fd55a36853ec730413f002b5b2a",
+    "source_provenance.json": "5660bfdac5b78136fe8cec6ad562dc50c002094e06b1110c102d9f4cbe3a2a5d",
+    "reweighting_provenance.json": "df8a5ce2f2c0f3e94bc390cce6ce09a1befbf6a97b13a28826d8a3706c11f88b",
+    "dy_1.5_0_cascade_ids.npy": "f797c88f4dc77432cba343ddda0490898dc2276a51ec6fe09df9322a845d5f9e",
+    "dy_1.5_0_primary_ids.npy": "add0270e588f74e247fc2209f87c721c3e13548c8f5b4cc5d5b3de7b64fa675c",
+    "dy_10_0_cascade_ids.npy": "17bde834d4760291fa5e323380ac7da8b5c70e5950067701c4dded4f8ec27755",
+    "dy_10_0_primary_ids.npy": "41ae20ff20d0228229d2791cf28a7557482e4170990beba69beaef170634ea91",
+    "dy_12_0_cascade_ids.npy": "746cb062cb5103bfc438e980fcda83f343e77ca5d7d3bccb46a9d06b4be26323",
+    "dy_12_0_primary_ids.npy": "a1b29b8f32153e71962bb4eb0715d417d218874739207d8b3d4da4520c9b3478",
+    "dy_15_0_cascade_ids.npy": "db8032b21a6411d6a954974655ba1e30993fbc1ac69a872239a2c69ca29d8da1",
+    "dy_15_0_primary_ids.npy": "c3322e724c8fc148c353a8fd0ae5b418d230a19710ae928fbd07423f88b6fab0",
+    "dy_17_0_cascade_ids.npy": "36cd4964b7fa2fd9d33c86af80548fbed41cd2ebb59c49790fc33866e788e8ec",
+    "dy_17_0_primary_ids.npy": "fb4a5abb49e022a9c8ef41cc602bd504b6c0c8edce1b7ec417bdb9f5adb72dc1",
+    "dy_20_0_cascade_ids.npy": "87055cd0deb25654376a10390f87b82c34cf52f43a3d3bc5fca117a3430f7326",
+    "dy_20_0_primary_ids.npy": "295bfd7b9283f16ac861450243e10042b63a25c9633711b1c16b13de0774dc17",
+    "dy_22_0_cascade_ids.npy": "5a34e7e931aed2b752862431ee649fab3712a277bb7951aac56315a7101ff880",
+    "dy_22_0_primary_ids.npy": "b98bf76496f5e503ba0aafc425d3e96af3b7be7f17afdfad47c1dfc59c7fb48b",
+    "dy_24_0_cascade_ids.npy": "8363d063a6cd3fa751eb0f0bdf5067c6db9065ce97d886f8d9ecdfd1c4d90647",
+    "dy_24_0_primary_ids.npy": "878224e03282034b2357099b4cd4341fb1f00f76defe900ceba12cae64a28e0d",
+    "dy_25_0_cascade_ids.npy": "7a84355c52ab939df102251b41f048b2b8c18de8b61302cfcb9c5e0b40a967e9",
+    "dy_25_0_primary_ids.npy": "6ac76034a067c65df36c179db71c450b7908400130fd9f078dfa88451ef1df20",
+    "dy_2_0_cascade_ids.npy": "9a1028058d10669325752d4519251adb85a9cb00f9910af08299407ef1a1717e",
+    "dy_2_0_primary_ids.npy": "2704e51161a346ca7f7dda3e983c0b1371d6b42aa0fa5742f824fc0ec3167234",
+    "dy_3_0_cascade_ids.npy": "507054a806723e32dcc4aafdc073e5174a26cf05d369f0777acf1b44a9b90a32",
+    "dy_3_0_primary_ids.npy": "d49fafd52ae63757e4b1138a2815d7ee825d9add8695da88dbe76137cadd674f",
+    "dy_5_0_cascade_ids.npy": "b7273a116a8ab7ae6091011ce75b694501d110185c2ecca24b75b40b228f4bf0",
+    "dy_5_0_primary_ids.npy": "91b4887acef4b43a03ce40f6141e9fee324ee77e6dcec9ccaed6058c7ed7af51",
+    "dy_7_0_cascade_ids.npy": "e29395f1bb3503c36d99b5fee40a777266548ef50e4fd1a971dd77a5a03014ac",
+    "dy_7_0_primary_ids.npy": "96dd6de5b28a21390357a134aff15ff84792c2d511316793451811c9761373a5",
+    "ratios_000.npy": "ce5a1add567df4960152af29ffc2b6d4c51178c90738794389d9ff8f085dc7be",
+    "ratios_001.npy": "b997492405ba1f9cb0ba5e57528238ae244ecd830f860be568c4255b30086ceb",
+    "ratios_002.npy": "d21c6930c3736d0a4b0155e19fcbbbd198fc9c00e2fea360acb00f0aeba90f37",
+    "ratios_003.npy": "401901b337f8fa7dc3a6ca51ede9c13bdb1a295a8d719d3c925ab4ceeb4cdd97",
+    "ratios_004.npy": "ca784b8680a825ff8d9624d8100e52a61a9cb97ea9f70b7094badb16f3230c8a",
+    "ratios_005.npy": "508c010d39983dcd4aae74919805153df9c6a647ca2f8fb0cfdcd2bfb256f62b",
+    "ratios_006.npy": "2853b0367ace52cafd11b9fd32209206654690956f7bafcb1b7b63d813c2480c",
+    "ratios_007.npy": "7f6ef073e2894e000ab8408b155e8422eef88be96b78542e659bbc51b0a34c54",
+    "ratios_008.npy": "2333510784ba9b0a36533fb68a3ef520b32c0e10f33b36b028ae8e4470bc0bd2",
+    "ratios_009.npy": "f986d317a24f73e9414ba99e180addc505e03dcaf57c2c18aab6724d132aa2e6",
+    "ratios_010.npy": "8dc90973f63882f33c20e2ab2ba21f169f6bc34e932e4da30a3be4f52e50a76e",
+    "ratios_011.npy": "a2ff62bb8bd1674fa8c525dfacca00480efe6e652511b2259a0ea6a786c5b2cc",
+    "ratios_012.npy": "0e3305175708ac7b5b02b7b464e1ffae455073007822ceb8744acb9ccc7e34af",
+    "ratios_013.npy": "c99ad23c205011e7140f87262273ab88dc852563d696adf0d2f1b8a44d28e5c4",
+    "ratios_014.npy": "92ccc292a9f316e92084beefb306218d86a4a907fa5a3948fa3a88b7ff6ded77",
+    "ratios_015.npy": "c86790c3f444879cfd22945c75f14c32bf8dffa0c7da2ce1ec1e11cf6bc6719d",
+    "ratios_016.npy": "8c6532a9c1f3accd2c8a96e4e9f58cf8afed398222b0ab46e9daa3aaf741e5a1",
+    "ratios_017.npy": "5d322dd50b3caade4a242661a92d9538415fd2ec12c342bc481fd1b78188b173",
+    "ratios_018.npy": "5e580fdcaf74c9f383a3a61f7df35a8823c47b4fab543dcaf7f9706b7d5f73fa",
+    "ratios_019.npy": "24f42a3585a6e82260a5be7c5029f9e81970cd25807da1fbfc7652126ac3a596",
+    "ratios_020.npy": "50db528077a0a9e6d76472c82e2c9147f1b0ebb1b7e94fb16019e8399efcf447"
+  },
+  "source_pool_sha256": {
+    "dy_1.5_0_cascade.npz": "b2c7839bd8adbe1bea97053151159a408c76d864bff42b86b04156a3d3ed533e",
+    "dy_1.5_0_primary.npz": "578754585c5a052017905f3143a59598cdde3ded7c38b4099f616c9e040a5e6c",
+    "dy_10_0_cascade.npz": "be6ad3680868018f6d623006f0becf6d2fe2064b7bff646608baf64e3f9504da",
+    "dy_10_0_primary.npz": "711de85b9b7b9b508c679f20fe87495e4f7724e634677898167b7bf3b0b47c89",
+    "dy_12_0_cascade.npz": "b30d941b7a58e8ff9ebb0c8aedffa101d69c88e4ea32c75b4eb190e8f1d7f5de",
+    "dy_12_0_primary.npz": "738ba8e49000c96d4eb21e920f732358f841d9a56d8c25731224905faf5ca4a1",
+    "dy_15_0_cascade.npz": "f33b52b2ec346cec9a5e15e520cd123fa0ee32993e8d8c02ea2ac7186efb27a2",
+    "dy_15_0_primary.npz": "29cf27a5edc94b1ccf540db5a7569d09977ec7f5e247edd4ceecf64f0c91cdf7",
+    "dy_17_0_cascade.npz": "1276e00526a7d92e40f28481ce46f9f1ee64fcb9ce99f1de5049c2439ccfea00",
+    "dy_17_0_primary.npz": "6d69d031b7f085c635c880553672520b796ca30884b11d0468b20f260b5a680d",
+    "dy_20_0_cascade.npz": "846b920f74da37c1054081d0d48260b1fbc9c4c0c9e74fe05a3b7edb72a5963d",
+    "dy_20_0_primary.npz": "e930bab68c4fa8a590679fc78d8ab90710ca2b8544de778fb0cb35dafb355551",
+    "dy_22_0_cascade.npz": "a26133234119a312c1b6c4658ca4bc9dd336e841c80714c39746f723a21ab435",
+    "dy_22_0_primary.npz": "70286b506384fafb4ea525939064fec6f0472ba6da6dec11d862833cef148fc8",
+    "dy_24_0_cascade.npz": "4cd8622b825629a847705f7157fc1611d16dbb875cba66c8eaaafbeea20d0be4",
+    "dy_24_0_primary.npz": "39175ffbb75221e2631e8303b13d966d58d7885908e0348fee883ad6642857d6",
+    "dy_25_0_cascade.npz": "3e60886b07c86c500e9e40a2bd3e5e5796936e644d4a66ff12fd44c61773786c",
+    "dy_25_0_primary.npz": "53532ae51142358fac66dddbe587782e0c8d03946eca7efcbac367cd5d8b8844",
+    "dy_2_0_cascade.npz": "cc02659a085987cf3f90246ae39456d7f595af0b6c5bf5a125f05d9208659b14",
+    "dy_2_0_primary.npz": "e115e7d105820ede4372e4ea27273ac08698b36a6f2ee283b34be816c929964c",
+    "dy_3_0_cascade.npz": "40effe2b9e60d514b56055e53d458dc46676f0240b209f7cb1367aa8bd933b58",
+    "dy_3_0_primary.npz": "17e4c12499554c41b3ca90622488db43d00636fc1e449741f91492a97591b88c",
+    "dy_5_0_cascade.npz": "81087880ec32171844be7d3c320964d6cdd6f93d9693e968757bdc191d101ef3",
+    "dy_5_0_primary.npz": "8c48557ce79b1e0bba1cdffd816014863b26716ab5fd5551bb257ecf765e9d59",
+    "dy_7_0_cascade.npz": "05c0621e80b39600426a0c5bacd83d075326e346b0ed0c65823d0e676577c34b",
+    "dy_7_0_primary.npz": "56b0cbb5efaba2730f93c56c9529aac4eede55e224da49a4e545ecba5c0facdf"
+  }
+}
