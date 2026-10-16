@@ -1,18 +1,18 @@
 # Installation and setup
 
 ## Logon to Liverpool HEP macines
-`ssh <username>@phi.ph.liv.ac.uk`
+`ssh <username>@theta.ph.liv.ac.uk`
 
 ## First time only, checkout package
 `git clone https://github.com/carlgwilliam/EventCalc-SHiP`
 
-## Change to that dir 
-`cd EventCalc-SHiP`
+## Each time logon, change to that dir and run setup
+```
+cd EventCalc-SHiP
+source setup.sh
+```
 
-## Run setup
-`source setup.sh`
-
-# Outline of wrok
+# Outline of work
 
 ## 1. Try to run one point of a given model e.g. ALP-photon
 
@@ -24,15 +24,17 @@
 ### Edit examples/coupling_scan.py to update events to 100000 then run
 `python examples/coupling_scan.py > ALPPhoton.json`
 
-### Look at scan card to understand
+### Look at scan card and try to understand
 
-### Run Simulate
+### Run Simulation
 `python simulate.py --card ALPPhoton.json`
 
-### Plot the result and reproduce the scan in Fig 50 (d) of CERN-SPSC-2023-033
+### Look at total outputs in outputs/<model>/total/
 
-## 3. Start to add in a small number of background events
+### Plot the number of events vs mass and coupling, then try reproduce the exclusion limit in Fig 50 (d) of CERN-SPSC-2023-033
 
-## 4. Investigate at other models
+## 3. Start to add in a small number of background events by hand
 
-## 5. Move on to looking at kinematics of events 
+## 4. Investigate at other models as above
+
+## 5. Move on to looking at kinematics of events in output/<model>/eventData
