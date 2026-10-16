@@ -31,7 +31,7 @@ Run Simulation
 
 `python simulate.py --card ALPPhoton.json`
 
-Look at total outputs in outputs/<model>/total/
+Look at total outputs in `outputs/<model>/total/`
 
 Plot the number of events vs mass and coupling, then try reproduce the exclusion limit in Fig 50 (d) of CERN-SPSC-2023-033
 
@@ -39,4 +39,5 @@ Plot the number of events vs mass and coupling, then try reproduce the exclusion
 
 ## 4. Investigate at other models as above
 
-## 5. Move on to looking at kinematics of events in output/<model>/eventData
+## 5. Move on to looking at kinematics of events
+These can be found in `output/<model>/eventData`
