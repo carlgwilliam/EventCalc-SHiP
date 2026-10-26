@@ -53,6 +53,7 @@ To avoid having to learn root to process these, we can use the pure-python [upro
 ```
 import analysis_tools as tools
 events, meta = load_files(<filename>.root)
-print (events.llp.E
+energies = events.llp.E
+print(energies)
 ```
 
