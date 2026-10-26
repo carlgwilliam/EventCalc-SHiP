@@ -57,7 +57,7 @@ events, meta = load_files(<filename>.root)
 # 4 vector of ALP etc 
 llps = events.llp
 
-# 4 vectors of daugthers (maybe more than 2)
+# 4 vectors of decay daughters (maybe more than 2)
 daughter0 = events.daugthers[0] 
 daughter1 = events.daugthers[1] 
 
