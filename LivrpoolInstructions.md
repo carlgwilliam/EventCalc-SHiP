@@ -53,7 +53,15 @@ To avoid having to learn root to process these, we can use the pure-python [upro
 ```
 import analysis_tools as tools
 events, meta = load_files(<filename>.root)
-energies = events.llp.E
-print(energies)
+
+# 4 vector of ALP etc 
+llps = events.llp
+
+# 4 vectors of daugthers (maybe more than 2)
+daughter0 = events.daugthers[0] 
+daughter1 = events.daugthers[1] 
+
+# 3 vector of production vertices
+vertices = events.vtx
 ```
 
