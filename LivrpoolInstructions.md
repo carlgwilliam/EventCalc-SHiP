@@ -65,3 +65,5 @@ daughter1 = events.daugthers[1]
 vertices = events.vtx
 ```
 
+To histogram the results, you pay also find the [uproot](https://githib.com/scikit-hep/hist) package useful.
+
