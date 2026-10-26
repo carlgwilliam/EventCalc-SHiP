@@ -41,3 +41,18 @@ Plot the number of events vs mass and coupling, then try reproduce the exclusion
 
 ## 5. Move on to looking at kinematics of events
 These can be found in `output/<model>/eventData`
+
+The first thing is to conver these to root files.  Each file can be converted with
+
+`python convertEvtCalc.py -f <filename>.dat -m`
+
+The output can be viewed with root or with the root plugin for VSCode and includes a tree of events, containing 4 vectors of the particles etc, and a tree of metadata.
+
+To avoid having to learn root to process these, we can use the pure-python [uproot](https://githib.com/scikit-hep/uproot5) package, which behaves a bit like NumPy.  You can do this using e.g.
+
+```
+import analysis_tools as tools
+events, meta = load_files(<filename>.root)
+print (events.llp.E
+```
+
