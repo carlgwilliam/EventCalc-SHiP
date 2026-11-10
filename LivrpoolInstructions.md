@@ -1,7 +1,7 @@
 # Installation and setup
 
 ## Logon to Liverpool HEP macines
-`ssh <username>@theta.ph.liv.ac.uk`
+`ssh -XY <username>@theta.ph.liv.ac.uk`
 
 ## First time only, checkout package
 `git clone https://github.com/carlgwilliam/EventCalc-SHiP`
