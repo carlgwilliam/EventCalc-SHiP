@@ -58,8 +58,8 @@ events, meta = load_files(<filename>.root)
 llps = events.llp
 
 # 4 vectors of decay daughters (maybe more than 2)
-daughter0 = events.daugthers[0] 
-daughter1 = events.daugthers[1] 
+daughter0 = events.daughters[0] 
+daughter1 = events.daughters[1] 
 
 # 3 vector of production vertices
 vertices = events.vtx
