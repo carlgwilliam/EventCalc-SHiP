@@ -115,3 +115,26 @@ def build_events(data):
 
     return events
 
+def process_sample(fname):
+    events, meta = load_file(fname)
+    
+    sel = (
+        (events.llp.pt > 1.0)
+    )
+
+    events = events[sel]
+    weights = events.decay_prob * meta.scale_factor
+    
+    hists = {
+        "LLP_E" :  Hist.new.Reg(50, 0, 400, label = "LLP E [GeV]").Double().fill(events.llp.E, weight = weights)
+    }
+
+    res = {
+        "mass" : meta.mass,
+        "coupling" : np.sqrt(meta.coupling_squared),
+        "num" : ak.to_numpy(sum(events.decay_prob) * meta.scale_factor).item(),
+        "hists" : hists
+    }
+
+    return res
+
